@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\taigc\\OneDrive - SENAC - SP\\Github\\DIO\\dotnet\\01-intro\\01-intro.csproj": {}
+    "C:\\Users\\taigc\\OneDrive - SENAC - SP\\Github\\DIO\\dotnet\\bootcampdotnet\\01-intro\\01-intro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\taigc\\OneDrive - SENAC - SP\\Github\\DIO\\dotnet\\01-intro\\01-intro.csproj": {
+    "C:\\Users\\taigc\\OneDrive - SENAC - SP\\Github\\DIO\\dotnet\\bootcampdotnet\\01-intro\\01-intro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taigc\\OneDrive - SENAC - SP\\Github\\DIO\\dotnet\\01-intro\\01-intro.csproj",
+        "projectUniqueName": "C:\\Users\\taigc\\OneDrive - SENAC - SP\\Github\\DIO\\dotnet\\bootcampdotnet\\01-intro\\01-intro.csproj",
         "projectName": "01-intro",
-        "projectPath": "C:\\Users\\taigc\\OneDrive - SENAC - SP\\Github\\DIO\\dotnet\\01-intro\\01-intro.csproj",
+        "projectPath": "C:\\Users\\taigc\\OneDrive - SENAC - SP\\Github\\DIO\\dotnet\\bootcampdotnet\\01-intro\\01-intro.csproj",
         "packagesPath": "C:\\Users\\taigc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taigc\\OneDrive - SENAC - SP\\Github\\DIO\\dotnet\\01-intro\\obj\\",
+        "outputPath": "C:\\Users\\taigc\\OneDrive - SENAC - SP\\Github\\DIO\\dotnet\\bootcampdotnet\\01-intro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\taigc\\AppData\\Roaming\\NuGet\\NuGet.Config"
