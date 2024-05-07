@@ -1,5 +1,6 @@
 ﻿using _02_syntax.Models;
 
+
 Person p1 = new Person();
 
 p1.Name = "Tainá";
